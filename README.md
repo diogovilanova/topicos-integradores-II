@@ -1,7 +1,7 @@
 # topicos-integradores-II
  Repositório da cadeira Tópicos Integradores II
 
-##Entrega da primeira avaliação:
+## Entrega da primeira avaliação:
 
 projeto.md contem a documentação do projeto.
 
