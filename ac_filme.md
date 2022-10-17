@@ -1,0 +1,15 @@
+# Análise Crítica sobre o filme “O Jogo da Imitação”.
+
+O filme “O jogo da imitação” é baseado em uma história real, produzido no ano de 2014, com o diretor Morten Tyldum e, roteirista Graham Moore. Elenco principal, Benedict Cumberbatch, Keira Knightlee, Charles Dance, Matthew Goode e Mark Strong.
+
+O filme se passa na Inglaterra durante a Segunda Guerra Mundial e conta a história de Alan Turing, um brilhante matemático que ao longo do filme vai mostrando a sua trajetória desde a infância, rodeada de bullying por ser “diferente”. Sua paixão por criptografia foi impulsionada pelo amigo Christopher, a quem Turing se viu ter sentimentos. Voltando aos dias em que o filme se passa, a Alemanha detinha de uma máquina chamada Enigma, que encriptava os códigos nazistas, até então nunca decifrada, Turing foi contratado para decodificar as mensagens e entender cada passo dos alemães na guerra.
+
+Para que tal feito acontecer o Turing se viu tendo que trabalhar em equipe, para ele isso era muito difícil, pois lidar com pessoas era muito trabalhoso, porém com a ajuda e Joan Clarke, uma mulher a servir essa trajetória onde era majoritariamente ocupada por homens, conseguiu lidar com a situação. Mesmo com suas atitudes, Turing logo se torna líder da equipe e iniciou a criação de uma máquina para quebrar a encriptação da Enigma, mesmo sendo desacreditado por todos, exceto por Joan Clarke, que se tornou amiga e mais tarde companheira do mesmo.
+
+Com o passar do tempo foi se tornando menos arrogante enquanto trabalhava na máquina de decodificação, isso porque sua equipe foi o conhecendo e lidando com seu comportamento complexo, por incrível que pareça a semelhança ao que ele mesmo se empenhava na máquina. O intuito era tornar possível saber quais seriam os próximos ataques dos nazistas, reduzindo assim a duração da guerra.
+
+No filme vemos a questão de desigualdade de gêneros, quando Turing escolheu Joan Clarker para fazer parte do grupo, assim como mencionado a cima, mesmo com toda desigualdade ela buscou seu espaço e mostrou que era tão fundamental no grupo quanto qualquer outro homem ali. 
+
+Tempo depois Turing pediu Joan em casamento, para que ela não retornasse a sua casa e continue o ajudando, mesmo ele sendo homossexual. A Segunda Guerra Mundial se encerrou mais rápido do que esperavam, logo o fim da equipe e a desolação de Alan Turing, o mesmo foi condenado pelo governo britânico por homossexualidade, era crime na época, e teve duas opções como sentença, dois anos na prisão ou passar por um tratamento de castração química.
+
+Esse filme é um drama de guerra que mostra a importância de um trabalho em equipe, onde devemos sempre observar quais os pontos fortes dos membros da equipe para que possamos delegar atividades e chegar no denominador comum, o resultado do projeto. Outro ponto é o profissionalismo de qualquer pessoa, independente de cor, sexualidade ou etnia, o que foi abordado por Turing, onde ele optou por ter uma mulher, vale ressalta que era uma pessoa qualificada, para ocupar o cargo que ela merecia.
