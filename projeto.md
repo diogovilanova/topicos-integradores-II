@@ -17,7 +17,7 @@ Esse aplicativo reúne relatos de tiroteios enviados por jornalistas, policiais 
 ### Onde fui roubado
 É um aplicativo que permite o usuário marcar no mapa o local onde foi vítima de um assalto, desse jeito é possível ter uma ideia de quais regiões da cidade são mais perigosas.
 
-### SaiBaLá
+### SaiPraLá
 É um aplicativo voltado para as mulheres, com ele mulheres que se sentirem assediadas podem marcar no mapa o local onde o fato ocorreu e descrever o nível de ameaça do agressor. Assim, outras mulheres podem enviar regiões onde os assédios ocorrem com mais frequência.
 
 ### Spot Crime
