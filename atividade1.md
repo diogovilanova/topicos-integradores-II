@@ -5,8 +5,11 @@ Pois com os testes automatizados o sistema é otimizado com precisão e agilidad
 Se refere a um teste de uma parte do código de uma aplicação, uma
 funcionalidade, ou um simples campo que poderá ser testado separadamente do restante do código.
 
-# ***O que são testes automatizados?***
-É a aplicação de ferramentas de software para automatizar um processo manual, conduzido por humanos, de revisão e validação de um produto de software.
+# ***O que são testes instrumentados?***
+São testes que são executados num emulador, por uma instrumentação pelo android instrumentation, é possivel ter
+acesso a informações sobre a aplicação, dando a possibilidade de controlá-la, da forma desejada, se necessário.
+Como exemplo, nós conseguimos verificar se alguma informação foi logada, se algum componente está na tela, como é 
+o caso de um botão ou card, e fazer ações em cima desse componente.
 
 # ***Escolha uma pirâmide de testes e descreva com suas palavras cada secção da pirâmide.***
 ### **Teste de pirâmide voltada a uma aplicação front-end.**
