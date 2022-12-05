@@ -3,7 +3,7 @@
 
 ## Primeira Atividade
 Arquivo: atividade1.md
-(Atividade relacionada a teste automatizados, unitários e pirâmide de testes).
+(Atividade relacionada a teste instrumentado, unitários e pirâmide de testes).
 
 ## Segunda Atividade
 Arquivo: atividade2.md
